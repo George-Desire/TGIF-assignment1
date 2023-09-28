@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cont1>img{
+    width: 1272px;
+    height: 585px;
+    position: absolute;
+    opacity: 0.8;
+}
+.cont2>img{
+    display: flex;
+    position: absolute;
+    margin:40px 0 0 350px;
+    width: 600px;
+    height: 400px ;
+}
+h1{
+    color: white;
+    position: absolute;
+    padding: 70px 0 0 520px;
+    text-shadow: 0px 7px 2px white;
+}
+.cont2 .list1{
+    display: flex;
+    list-style-type: none;
+    gap: 45px;
+    position: absolute;
+    padding: 270px 0 0 500px;
+    color: white;
+    font-size: 30px;
+    text-shadow: 0px 2px 2px;
+}
+.cont2 .list2{
+    display: flex;
+    list-style-type: none;
+    gap: 40px;
+    position: absolute;
+    padding: 320px 0 0 510px;
+    color: white;
+    font-size: 10px;
+    text-shadow: 0px 10px 5px white;
+}
